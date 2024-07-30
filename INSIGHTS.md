@@ -13,7 +13,7 @@ Using the larger versions of Model's may improve the overall performance of the 
 
 ### Large Models
 
-Training large models, such as BERT-Large or T5, is computationally intensive and requires substantial GPU resources. These models can be slow to train and may exceed available memory, leading to increased training times and costs.
+Training large models, such as BERT-Large or T5, is computationally intensive and requires substantial GPU resources. These models are slow to train and exceeded available memory, leading to increased training times and costs.
 
 ### Overfitting in Smaller Models
 
