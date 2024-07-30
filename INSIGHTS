@@ -1,11 +1,19 @@
 # Challenges and Constraints
-## Model Size and Training Complexity:
 
-### Large Models: Training large models, such as BERT-Large or T5, is computationally intensive and requires substantial GPU resources. These models can be slow to train and may exceed available memory, leading to increased training times and costs.
-Overfitting in Smaller Models: Smaller models may overfit due to their limited capacity, resulting in poor generalization on unseen data. They may capture noise in the training set rather than learning meaningful patterns.
-### Hardware Limitations:
+## Model Size and Training Complexity
+
+### Large Models
+
+Training large models, such as BERT-Large or T5, is computationally intensive and requires substantial GPU resources. These models can be slow to train and may exceed available memory, leading to increased training times and costs.
+
+### Overfitting in Smaller Models
+
+Smaller models may overfit due to their limited capacity, resulting in poor generalization on unseen data. They may capture noise in the training set rather than learning meaningful patterns.
+
+## Hardware Limitations
 
 **GPU Availability**: Limited GPU resources on local machines and online platforms can restrict the ability to train large models or use extensive hyperparameter searches. Training on smaller batches or using cloud-based solutions can mitigate this issue but may incur additional costs.
-Code and Training Constraints:
 
-Incomplete Training: Due to hardware constraints, the training process may not be completed, affecting the final performance of the model. The structure and preliminary results can guide further experimentation when more resources are available.
+## Code and Training Constraints
+
+**Incomplete Training**: Due to hardware constraints, the training process may not be completed, affecting the final performance of the model. The structure and preliminary results can guide further experimentation when more resources are available.
