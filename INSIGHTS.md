@@ -1,7 +1,7 @@
 # Model Performance
 GPT and BERT were prone to overfitting and showed bad results because of using their smaller versions , upgrading to bigger pre-trained BERT could be effective ,T5 showed better results and optimization but the training time was higher because of hardware limitations.
 
-# Noval Improvements
+# Novel Improvements
 ### Hybrid Approach
 : Combining predictions from multiple models or architectures to improve overall performance. Ensembling techniques can help mitigate the weaknesses of individual models
 ### Using Larger Models:
